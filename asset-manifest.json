@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/remote-work-budget/static/css/main.616dc71b.chunk.css",
+    "main.js": "/remote-work-budget/static/js/main.7eb2195b.chunk.js",
+    "main.js.map": "/remote-work-budget/static/js/main.7eb2195b.chunk.js.map",
+    "runtime-main.js": "/remote-work-budget/static/js/runtime-main.3bf11c62.js",
+    "runtime-main.js.map": "/remote-work-budget/static/js/runtime-main.3bf11c62.js.map",
+    "static/js/2.8db0ba02.chunk.js": "/remote-work-budget/static/js/2.8db0ba02.chunk.js",
+    "static/js/2.8db0ba02.chunk.js.map": "/remote-work-budget/static/js/2.8db0ba02.chunk.js.map",
+    "static/js/3.e65a93de.chunk.js": "/remote-work-budget/static/js/3.e65a93de.chunk.js",
+    "static/js/3.e65a93de.chunk.js.map": "/remote-work-budget/static/js/3.e65a93de.chunk.js.map",
+    "index.html": "/remote-work-budget/index.html",
+    "static/css/main.616dc71b.chunk.css.map": "/remote-work-budget/static/css/main.616dc71b.chunk.css.map",
+    "static/js/2.8db0ba02.chunk.js.LICENSE.txt": "/remote-work-budget/static/js/2.8db0ba02.chunk.js.LICENSE.txt",
+    "static/media/001-popcorn.46ec6dfd.png": "/remote-work-budget/static/media/001-popcorn.46ec6dfd.png",
+    "static/media/002-harvest.bb6efbdd.png": "/remote-work-budget/static/media/002-harvest.bb6efbdd.png",
+    "static/media/003-taxi.e0368ddd.png": "/remote-work-budget/static/media/003-taxi.e0368ddd.png",
+    "static/media/004-credit-card.9d91e6f9.png": "/remote-work-budget/static/media/004-credit-card.9d91e6f9.png",
+    "static/media/006-house.f0ef691f.png": "/remote-work-budget/static/media/006-house.f0ef691f.png",
+    "static/media/App.css": "/remote-work-budget/static/media/cloudButton.725a160b.png",
+    "static/media/iconsRWB.846ceac1.png": "/remote-work-budget/static/media/iconsRWB.846ceac1.png",
+    "static/media/money.5d042233.png": "/remote-work-budget/static/media/money.5d042233.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bf11c62.js",
+    "static/js/2.8db0ba02.chunk.js",
+    "static/css/main.616dc71b.chunk.css",
+    "static/js/main.7eb2195b.chunk.js"
+  ]
+}
