@@ -175,8 +175,8 @@ class App extends Component {
 								<img src={money} alt="little logo for cash" />
 							</div>
 							{this.state.isIncomeValid ? (
-								<p className="errorMessage">Please enter a number value</p>
-							) : <p className="errorMessage"> Your monthly income<span className="point">{up}</span> </p>}
+								<p className="errorMessage side">Please enter a number value</p>
+							) : <p className="errorMessage side"> Your monthly income<span className="point">{up}</span> </p>}
 							<div className="incomeDrop">
 								<select className="incomeDropdown" onChange={this.handleCurrentChange}>
 									{this.state.countryNames.map((country, index) => {

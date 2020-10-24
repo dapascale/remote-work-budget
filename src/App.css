@@ -382,7 +382,7 @@ select option {
 .results p {
   width: calc(100% / 3);
   height: inherit;
-  padding: 10px 15px;
+  padding: 5px;
 }
 
 .results p:nth-of-type(2) {
@@ -401,6 +401,7 @@ p.small {
   font-size: 1.4rem;
   font-style: italic;
   width: 100%;
+  padding: 2px;
 }
 
 /* Media Queries */
@@ -419,36 +420,59 @@ p.small {
   .expense {
     width: 95%;
   }
+
   select {
-    width: 90%;
+    width: 60%;
   }
+
+  .resultsFlex {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .results p {
+    margin: 10px;
+    width: 100%;
+  }
+
+  .results p:nth-of-type(2) {
+    border-right: none;
+    border-left: none;
+    border-bottom: #5ef9da 2px solid;
+    border-top: #5ef9da 2px solid;
+    padding: 40px 0;
+  }
+
+  p.errorMessage {
+    width: 55%;
+  }
+
+  p.errorMessage.side {
+    width: 70%;
+  }
+
 }
 
 @media only screen and 
 (max-width: 480px) and 
 (min-width: 320px) {
 
-  .monthlyBudgetTitle {
-    width: 85%;
-    margin: 0 auto;
-  }
-
-  .incomeLabelInput {
-    width: 95%;
-    flex-direction: column;
-    margin-left: 15px;
-  }
-
   .wrapper {
-    width: 75%;
+    width: 90%;
   }
-  .incomeDropdown,
-  .budgetDropdown {
+
+  h1 {
+    font-size: 2rem;
+    line-height: 20px;
+  }
+
+  .incomeInputArea {
     width: 100%;
   }
 
+  .incomeDropdown,
   .budgetDropdown {
-    width: 80%;
+    width: 60%;
   }
 
   .expense {
@@ -463,21 +487,11 @@ p.small {
     width: 100%;
   }
 
-  .financialStatus {
-    margin-top: 15%;
+  p.errorMessage {
+    width: 55%;
   }
 
-  .totalExpensesParagraph {
-    margin-left: 10%;
+  p.errorMessage.side {
+    width: 70%;
   }
-
-  .burgundy {
-    height: 20rem;
-  }
-
-  .orange {
-    height: 84.5rem;
-    width: 65%;
-  }
-
 }
