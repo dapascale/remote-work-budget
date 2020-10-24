@@ -475,11 +475,15 @@ p.small {
     width: 60%;
   }
 
+  .labelLogo {
+    margin-right: 0;
+  }
+
   .expense {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    margin: 0 auto;
+    margin: 0 auto 40px;
   }
 
   .expense input {
