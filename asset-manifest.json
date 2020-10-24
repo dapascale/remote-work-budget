@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/remote-work-budget/static/css/main.60b41930.chunk.css",
+    "main.css": "/remote-work-budget/static/css/main.000a7d64.chunk.css",
     "main.js": "/remote-work-budget/static/js/main.978b6ee8.chunk.js",
     "main.js.map": "/remote-work-budget/static/js/main.978b6ee8.chunk.js.map",
     "runtime-main.js": "/remote-work-budget/static/js/runtime-main.3bf11c62.js",
@@ -10,7 +10,7 @@
     "static/js/3.e65a93de.chunk.js": "/remote-work-budget/static/js/3.e65a93de.chunk.js",
     "static/js/3.e65a93de.chunk.js.map": "/remote-work-budget/static/js/3.e65a93de.chunk.js.map",
     "index.html": "/remote-work-budget/index.html",
-    "static/css/main.60b41930.chunk.css.map": "/remote-work-budget/static/css/main.60b41930.chunk.css.map",
+    "static/css/main.000a7d64.chunk.css.map": "/remote-work-budget/static/css/main.000a7d64.chunk.css.map",
     "static/js/2.8db0ba02.chunk.js.LICENSE.txt": "/remote-work-budget/static/js/2.8db0ba02.chunk.js.LICENSE.txt",
     "static/media/001-popcorn.46ec6dfd.png": "/remote-work-budget/static/media/001-popcorn.46ec6dfd.png",
     "static/media/002-harvest.bb6efbdd.png": "/remote-work-budget/static/media/002-harvest.bb6efbdd.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.3bf11c62.js",
     "static/js/2.8db0ba02.chunk.js",
-    "static/css/main.60b41930.chunk.css",
+    "static/css/main.000a7d64.chunk.css",
     "static/js/main.978b6ee8.chunk.js"
   ]
 }
